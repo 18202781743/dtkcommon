@@ -1,3 +1,185 @@
+dtkcommon (5.7.8) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 14 Jan 2025 11:17:31 +0000
+
+dtkcommon (5.7.7) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 09 Jan 2025 09:28:38 +0000
+
+dtkcommon (5.7.6) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 02 Jan 2025 05:43:52 +0000
+
+dtkcommon (5.7.5) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 12 Dec 2024 03:03:53 +0000
+
+dtkcommon (5.7.4) unstable; urgency=medium
+
+  * feat: add 'scrollBarPolicy' and 'sizeMode' config
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 03 Dec 2024 02:00:45 +0000
+
+dtkcommon (5.7.3) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 20 Nov 2024 02:19:06 +0000
+
+dtkcommon (5.7.2) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 13 Nov 2024 01:53:26 +0000
+
+dtkcommon (5.7.1) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 16 Oct 2024 03:30:44 +0000
+
+dtkcommon (5.6.34) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 20 Aug 2024 05:03:51 +0000
+
+dtkcommon (5.6.32) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 08 Jul 2024 02:29:21 +0000
+
+dtkcommon (5.6.31) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 27 Jun 2024 09:11:34 +0000
+
+dtkcommon (5.6.30) unstable; urgency=medium
+
+  * feat: add loggingrules config
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 30 May 2024 02:46:31 +0000
+
+dtkcommon (5.6.29) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 13 May 2024 03:02:53 +0000
+
+dtkcommon (5.6.28) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 29 Apr 2024 08:23:38 +0000
+
+dtkcommon (5.6.27) unstable; urgency=medium
+
+  Release 5.6.27
+
+ -- Yixue Wang <wangyixue@deepin.org>  Fri, 19 Apr 2024 08:55:34 +0000
+
+dtkcommon (5.6.26) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 26 Mar 2024 05:47:34 +0000
+
+dtkcommon (5.6.25) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 11 Mar 2024 01:16:26 +0000
+
+dtkcommon (5.6.21) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 09 Jan 2024 01:45:42 +0000
+
+dtkcommon (5.6.20) unstable; urgency=medium
+
+  * feat: add config for dstyle
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 28 Nov 2023 05:40:52 +0000
+
+dtkcommon (5.6.19) unstable; urgency=medium
+
+  [ root ]
+  * UNRELEASED
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 23 Oct 2023 07:33:18 +0000
+
+dtkcommon (5.6.18) unstable; urgency=medium
+
+  * chore: correct a typo in DtkBuildHelper.cmake
+    Thanks to Felix Yan
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 18 Oct 2023 06:01:44 +0000
+
+dtkcommon (5.6.17) unstable; urgency=medium
+
+  * Release 5.6.17
+
+ -- Deepin Packages Builder <packages@deepin.org>  Fri, 08 Sep 2023 15:08:43 +0800
+
+dtkcommon (5.6.16) unstable; urgency=medium
+
+  * feat(cmake): add cmake functions
+  * chore: include DtkBuildHelper.cmake
+  * fix: can't find DtkBuildHelper in Dtk6
+  * chore: move DtkBuildHelper to separate module (#55)
+  * chore: not include DtkBuildHelper (#56)
+  * fix(build): archlinux build DTK_VERSION empty
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 22 Aug 2023 06:13:45 +0000
+
+dtkcommon (5.6.15) unstable; urgency=medium
+
+  * Release 5.6.15
+
+ -- Yixue Wang <wangyixue@deepin.org>  Fri, 11 Aug 2023 10:15:55 +0800
+
+dtkcommon (5.6.14) unstable; urgency=medium
+
+  * chore: Sync by https://github.com/linuxdeepin/.github/commit/559e91167d4919644f37bbcf123eb0651c1528ea(Influence: none)
+  * refactor!: remove Qt features for DTK
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 27 Jul 2023 06:56:31 +0000
+
+dtkcommon (5.6.12) unstable; urgency=medium
+
+  * chore: Sync by https://github.com/linuxdeepin/.github/commit/c5d10d3aeb9233a70f6290cb89d3b193f7b1f804(Influence: none)
+  * chore: Sync by https://github.com/linuxdeepin/.github/commit/2e5e092ba3f86b16d1aabbabcf0bfd2ae65b19c8(Influence: none)
+  * chore(cmake): optimize install directory
+  * BREAKING_CHANGE: update to dtk6
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 12 Jun 2023 17:00:43 +0800
+
 dtkcommon (5.6.9) unstable; urgency=medium
 
   * Release 5.6.9
